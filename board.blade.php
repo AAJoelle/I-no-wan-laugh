@@ -142,6 +142,7 @@
                 <p>
                   <h1>{{$board->logo != NULL ? "<img src=".URL::to('logo/'.$board->logo).">" : $board->sitename}}</h1>
                 </p>
+                <p> How are you doing</p>
               </div>
               <div class="col-md-9">
                 <p>
